@@ -34,7 +34,6 @@ namespace GSP_Algorithm
             {
                 Sequance sq = new Sequance(DataSpliter(dt));
                 transactions.Add(sq);
-                Console.WriteLine(sq);
             }
 
 
@@ -63,11 +62,11 @@ namespace GSP_Algorithm
             //--------------------------------------------------------------------------
 
             LVL1.Run_LVL1();
-            //Console.WriteLine("-----------LVL1-----------");
-            //foreach (Item it in frequant)
-            //{
-            //    Console.WriteLine(it.name + " | Support = " + it.counter);
-            //}
+            Console.WriteLine("-----------LVL1-----------");
+            foreach (Item it in frequant)
+            {
+                Console.WriteLine(it.name + " | Support = " + it.counter);
+            }
 
 
             LVL2.Run_LVL2();
