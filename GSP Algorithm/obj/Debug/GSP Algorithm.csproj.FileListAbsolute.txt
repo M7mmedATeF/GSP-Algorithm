@@ -1,0 +1,7 @@
+C:\Users\Mohammed Atef\source\repos\GSP Algorithm\GSP Algorithm\bin\Debug\GSP Algorithm.exe.config
+C:\Users\Mohammed Atef\source\repos\GSP Algorithm\GSP Algorithm\bin\Debug\GSP Algorithm.exe
+C:\Users\Mohammed Atef\source\repos\GSP Algorithm\GSP Algorithm\bin\Debug\GSP Algorithm.pdb
+C:\Users\Mohammed Atef\source\repos\GSP Algorithm\GSP Algorithm\obj\Debug\GSP Algorithm.csproj.AssemblyReference.cache
+C:\Users\Mohammed Atef\source\repos\GSP Algorithm\GSP Algorithm\obj\Debug\GSP Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Atef\source\repos\GSP Algorithm\GSP Algorithm\obj\Debug\GSP Algorithm.exe
+C:\Users\Mohammed Atef\source\repos\GSP Algorithm\GSP Algorithm\obj\Debug\GSP Algorithm.pdb
